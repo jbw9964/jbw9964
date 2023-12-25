@@ -151,20 +151,14 @@
 
 ### 🖥️ 저는 이런 환경에서 개발했어요 🖥️
 
-- OS
 <div align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+|||
+|:-:|:-:|
+|OS| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Mac os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
+|Tools| ![VScode](https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3) ![Google Colab](https://img.shields.io/badge/GoogleColab-2C2C32.svg?style=for-the-badge&logo=GoogleColab&logoColor=ornage) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+
 </div>
-
-- Tools
-<div align="center">
-    <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
-    <img src="https://img.shields.io/badge/Google Colab-2C2C32.svg?style=for-the-badge&logo=Google Colab&logoColor=ornage" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  </div>
-
 
 ---
 
