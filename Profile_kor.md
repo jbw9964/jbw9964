@@ -8,6 +8,8 @@
 
 [![Stack Overflow Profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/22402927?theme=dark)](https://stackoverflow.com/users/22402927/jiho-lee)
 
+---
+
 ## :mag_right: Overview
 
 <!------------------------------------ Frameworks ------------------------------------>
@@ -72,7 +74,7 @@
 
 
 <!------------------------------------ Contact ------------------------------------>
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">🏷️ Contact 🏷️</h3>
 <div align="center">
   <a href="mailto:jbw9964@gmail.com">
     <img
@@ -88,6 +90,8 @@
 </div>
 <!------------------------------------ Contact ------------------------------------>
 
+---
+
 ## :telescope: Details
 
 ### 저는 이런걸 만들었어요
@@ -96,12 +100,14 @@
 
 [![FEM_2d](https://github-readme-stats.vercel.app/api/pin/?username=jbw9964&repo=FEM_2d)](https://github.com/jbw9964/FEM_2d) [![Smart_fan](https://github-readme-stats.vercel.app/api/pin/?username=jbw9964&repo=Smart_fan)](https://github.com/jbw9964/Smart_fan)
 
-[![Programming_methodology_project](https://github-readme-stats.vercel.app/api/pin/?username=jbw9964&repo=Programming_methodology_project)](https://github.com/jbw9964/Programming_methodology_project) [![2023-MATLAB-AI-contest](https://github-readme-stats.vercel.app/api/pin/?username=jbw9964&repo=2023-MATLAB-AI-contest)](https://github.com/jbw9964/2023-MATLAB-AI-contest)
+[![Kaggle_Dacon_repository](https://github-readme-stats.vercel.app/api/pin/?username=jbw9964&repo=Kaggle_Dacon_repository)](https://github.com/jbw9964/Kaggle_Dacon_repository) [![2023-MATLAB-AI-contest](https://github-readme-stats.vercel.app/api/pin/?username=jbw9964&repo=2023-MATLAB-AI-contest)](https://github.com/jbw9964/2023-MATLAB-AI-contest)
 
-[![Kaggle_Dacon_repository](https://github-readme-stats.vercel.app/api/pin/?username=jbw9964&repo=Kaggle_Dacon_repository)](https://github.com/jbw9964/Kaggle_Dacon_repository)
+[![Programming_methodology_project](https://github-readme-stats.vercel.app/api/pin/?username=jbw9964&repo=Programming_methodology_project)](https://github.com/jbw9964/Programming_methodology_project)
 
 </div>
 
+
+---
 
 ### ⌨️ 저는 이런 언어를 사용했어요 ⌨️
 <div align="center">
@@ -113,6 +119,8 @@
 
 </div>
 
+
+---
 
 ### 💡 저는 이런걸 이용했어요 💡
 
@@ -139,6 +147,8 @@
 </div>
 
 
+---
+
 ### 🖥️ 저는 이런 환경에서 개발했어요 🖥️
 
 - OS
@@ -156,6 +166,8 @@
   </div>
 
 
+---
+
 ### 🏷️ contact 🏷️
 
 <div align="center">
@@ -171,3 +183,5 @@
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
 </div>
+
+---
