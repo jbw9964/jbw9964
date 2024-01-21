@@ -6,7 +6,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jbw9964&show_icons=true&theme=vue)
 
-![Solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=jbw9964) 
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jbw9964)](https://solved.ac/jbw9964)
 
 [![Stack Overflow Profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/22402927?theme=dark)](https://stackoverflow.com/users/22402927/jiho-lee)
 
